@@ -1,2 +1,2 @@
-# MySudoku
-Soduko game #C++ #SDL2
+# Wikkit
+#C++ #SDL2
